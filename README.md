@@ -1,2 +1,2 @@
 # lyrics-generation
-Advanced Data Science Capstone project
+Notebooks with examples of lyrics generation and creation datasets
